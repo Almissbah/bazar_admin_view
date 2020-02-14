@@ -1,0 +1,1 @@
+# bazar_admin_view
